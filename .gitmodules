@@ -1,0 +1,9 @@
+[submodule "1st_year"]
+	path = 1st_year
+	url = https://github.com/simo-macca/1st_year
+[submodule "2nd_year"]
+	path = 2nd_year
+	url = https://github.com/simo-macca/2nd_year
+[submodule "3rd_year"]
+	path = 3rd_year
+	url = https://github.com/simo-macca/3rd_year
